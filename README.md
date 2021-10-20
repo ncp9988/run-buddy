@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Make with ❤️ by Shelby
+
+### ©️2019 Run Buddy, Inc
